@@ -12,4 +12,4 @@ Error (MSE). In addition, the evaluation of the three ANN models that have been 
 the smallest MSE and a coefficient of determination close to one. This paper also shows that option pricing using the ANN method
 is more efficient than the Monte Carlo method.
 
-Keyword: Asian Option, Artificial Neural Networks, Levy’s Approximation, Quasi Monte Carlo
+Keyword: Asian Option, Artificial Neural Networks, Levy’s Approximation, Quasi Monte Carlo, ANN
